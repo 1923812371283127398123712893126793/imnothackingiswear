@@ -1,4 +1,4 @@
-local Atlas = loadstring(game:HttpGet("https://siegehub.net/Atlas.lua"))()
+local Atlas = loadstring(game:HttpGet("https://raw.githubusercontent.com/v9h/fantav4_free/main/ui.lua"))()
 
 local UI = Atlas.new({
     Name = "Fanta Hub V4"; 
